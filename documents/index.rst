@@ -14,27 +14,34 @@ Welcome to Pages template
    episodes/4.rst
    episodes/5.rst
 
-Heading1
+Task 1
 ========
-Links
 
-.. image:: 1.png
+.. image:: 1.jpg
   :width: 400
   :alt: one
 
-.. image:: 2.png
+Task 1
+========
+.. image:: 2.jpg
   :width: 400
   :alt: one
 
-.. image:: 3.png
+Task 1
+========
+.. image:: 3.jpg
   :width: 400
   :alt: one
 
-.. image:: 4.png
+Task 1
+========
+.. image:: 4.jpg
   :width: 400
   :alt: one
 
-.. image:: 5.png
+Task 1
+========
+.. image:: 5.jpg
   :width: 400
   :alt: one
 
