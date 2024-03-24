@@ -1,7 +1,5 @@
-.. Pages template documentation master file, created by
-   sphinx-quickstart on Wed Aug 16 09:58:06 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. QR scanning game. Sabryr 24-03-2024
+
 
 Welcome to Pages template
 =========================
@@ -12,10 +10,7 @@ Welcome to Pages template
 
 Heading1
 ========
-Text
+Links
 
-Heading2
---------
-Text
 
 
